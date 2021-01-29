@@ -1,0 +1,769 @@
+﻿CFIPS,YEAR,AGE,COUNTY,MALE,FEMALE,TOTAL,TYPE
+1,2017,0 to 1,Adams,"7,294","6,995","14,289",Estimate
+1,2017,1 to 4,Adams,"14,659","14,044","28,702",Estimate
+1,2017,5 to 14,Adams,"38,563","36,620","75,184",Estimate
+1,2017,15 to 24,Adams,"35,736","34,222","69,959",Estimate
+1,2017,25 to 34,Adams,"43,054","42,077","85,132",Estimate
+3,2017,0 to 1,Alamosa,206,196,402,Estimate
+3,2017,1 to 4,Alamosa,458,438,898,Estimate
+3,2017,5 to 14,Alamosa,"1,195","1,166","2,362",Estimate
+3,2017,15 to 24,Alamosa,"1,468","1,460","2,927",Estimate
+3,2017,25 to 34,Alamosa,"1,049",934,"1,984",Estimate
+5,2017,0 to 1,Arapahoe,"8,228","7,883","16,112",Estimate
+5,2017,1 to 4,Arapahoe,"16,823","16,114","32,938",Estimate
+5,2017,5 to 14,Arapahoe,"44,249","42,082","86,329",Estimate
+5,2017,15 to 24,Arapahoe,"43,612","41,328","84,941",Estimate
+5,2017,25 to 34,Arapahoe,"50,382","50,165","100,546",Estimate
+7,2017,0 to 1,Archuleta,134,128,262,Estimate
+7,2017,1 to 4,Archuleta,247,238,485,Estimate
+7,2017,5 to 14,Archuleta,754,682,"1,437",Estimate
+7,2017,15 to 24,Archuleta,675,622,"1,295",Estimate
+7,2017,25 to 34,Archuleta,553,551,"1,103",Estimate
+9,2017,0 to 1,Baca,40,39,79,Estimate
+9,2017,1 to 4,Baca,81,78,158,Estimate
+9,2017,5 to 14,Baca,210,220,425,Estimate
+9,2017,15 to 24,Baca,200,177,375,Estimate
+9,2017,25 to 34,Baca,171,160,329,Estimate
+11,2017,0 to 1,Bent,41,40,81,Estimate
+11,2017,1 to 4,Bent,82,80,164,Estimate
+11,2017,5 to 14,Bent,277,276,553,Estimate
+11,2017,15 to 24,Bent,478,243,722,Estimate
+11,2017,25 to 34,Bent,809,232,"1,045",Estimate
+13,2017,0 to 1,Boulder,"2,805","2,684","5,490",Estimate
+13,2017,1 to 4,Boulder,"6,091","5,831","11,922",Estimate
+13,2017,5 to 14,Boulder,"18,596","17,848","36,445",Estimate
+13,2017,15 to 24,Boulder,"30,107","27,647","57,755",Estimate
+13,2017,25 to 34,Boulder,"22,754","20,781","43,535",Estimate
+14,2017,0 to 1,Broomfield,744,713,"1,456",Estimate
+14,2017,1 to 4,Broomfield,"1,559","1,498","3,055",Estimate
+14,2017,5 to 14,Broomfield,"4,581","4,484","9,066",Estimate
+14,2017,15 to 24,Broomfield,"4,489","4,297","8,787",Estimate
+14,2017,25 to 34,Broomfield,"5,688","5,260","10,947",Estimate
+15,2017,0 to 1,Chaffee,148,142,290,Estimate
+15,2017,1 to 4,Chaffee,317,304,621,Estimate
+15,2017,5 to 14,Chaffee,971,932,"1,902",Estimate
+15,2017,15 to 24,Chaffee,"1,401",834,"2,236",Estimate
+15,2017,25 to 34,Chaffee,"1,073",877,"1,949",Estimate
+17,2017,0 to 1,Cheyenne,25,23,47,Estimate
+17,2017,1 to 4,Cheyenne,57,53,109,Estimate
+17,2017,5 to 14,Cheyenne,130,138,261,Estimate
+17,2017,15 to 24,Cheyenne,103,96,201,Estimate
+17,2017,25 to 34,Cheyenne,89,87,174,Estimate
+19,2017,0 to 1,Clear Creek,82,78,160,Estimate
+19,2017,1 to 4,Clear Creek,166,160,326,Estimate
+19,2017,5 to 14,Clear Creek,511,472,983,Estimate
+19,2017,15 to 24,Clear Creek,441,443,880,Estimate
+19,2017,25 to 34,Clear Creek,453,383,836,Estimate
+21,2017,0 to 1,Conejos,100,95,195,Estimate
+21,2017,1 to 4,Conejos,228,219,446,Estimate
+21,2017,5 to 14,Conejos,619,635,"1,255",Estimate
+21,2017,15 to 24,Conejos,482,534,"1,016",Estimate
+21,2017,25 to 34,Conejos,434,409,841,Estimate
+23,2017,0 to 1,Costilla,38,36,75,Estimate
+23,2017,1 to 4,Costilla,68,65,133,Estimate
+23,2017,5 to 14,Costilla,227,205,430,Estimate
+23,2017,15 to 24,Costilla,216,179,395,Estimate
+23,2017,25 to 34,Costilla,162,171,332,Estimate
+25,2017,0 to 1,Crowley,33,33,66,Estimate
+25,2017,1 to 4,Crowley,85,82,170,Estimate
+25,2017,5 to 14,Crowley,218,226,445,Estimate
+25,2017,15 to 24,Crowley,482,218,698,Estimate
+25,2017,25 to 34,Crowley,958,251,"1,210",Estimate
+27,2017,0 to 1,Custer,33,32,64,Estimate
+27,2017,1 to 4,Custer,61,58,119,Estimate
+27,2017,5 to 14,Custer,194,202,398,Estimate
+27,2017,15 to 24,Custer,256,273,530,Estimate
+27,2017,25 to 34,Custer,208,164,373,Estimate
+29,2017,0 to 1,Delta,290,278,569,Estimate
+29,2017,1 to 4,Delta,588,562,"1,150",Estimate
+29,2017,5 to 14,Delta,"1,780","1,784","3,565",Estimate
+29,2017,15 to 24,Delta,"1,773","1,585","3,362",Estimate
+29,2017,25 to 34,Delta,"1,537","1,286","2,820",Estimate
+31,2017,0 to 1,Denver,"9,350","8,951","18,302",Estimate
+31,2017,1 to 4,Denver,"18,129","17,354","35,483",Estimate
+31,2017,5 to 14,Denver,"38,665","36,722","75,387",Estimate
+31,2017,15 to 24,Denver,"38,150","37,603","75,752",Estimate
+31,2017,25 to 34,Denver,"77,098","78,692","155,790",Estimate
+33,2017,0 to 1,Dolores,14,14,28,Estimate
+33,2017,1 to 4,Dolores,36,35,71,Estimate
+33,2017,5 to 14,Dolores,125,138,263,Estimate
+33,2017,15 to 24,Dolores,121,105,226,Estimate
+33,2017,25 to 34,Dolores,89,84,172,Estimate
+35,2017,0 to 1,Douglas,"3,651","3,493","7,145",Estimate
+35,2017,1 to 4,Douglas,"7,395","7,084","14,481",Estimate
+35,2017,5 to 14,Douglas,"24,969","23,857","48,827",Estimate
+35,2017,15 to 24,Douglas,"22,138","21,329","43,466",Estimate
+35,2017,25 to 34,Douglas,"19,725","19,734","39,457",Estimate
+37,2017,0 to 1,Eagle,641,612,"1,253",Estimate
+37,2017,1 to 4,Eagle,"1,294","1,241","2,534",Estimate
+37,2017,5 to 14,Eagle,"3,456","3,342","6,797",Estimate
+37,2017,15 to 24,Eagle,"3,403","3,268","6,673",Estimate
+37,2017,25 to 34,Eagle,"5,286","4,404","9,688",Estimate
+39,2017,0 to 1,Elbert,241,232,474,Estimate
+39,2017,1 to 4,Elbert,485,470,955,Estimate
+39,2017,5 to 14,Elbert,"1,511","1,487","2,997",Estimate
+39,2017,15 to 24,Elbert,"1,672","1,634","3,307",Estimate
+39,2017,25 to 34,Elbert,"1,276","1,232","2,509",Estimate
+41,2017,0 to 1,El Paso,"9,680","9,253","18,934",Estimate
+41,2017,1 to 4,El Paso,"19,034","18,210","37,247",Estimate
+41,2017,5 to 14,El Paso,"49,309","47,355","96,664",Estimate
+41,2017,15 to 24,El Paso,"65,602","47,267","112,869",Estimate
+41,2017,25 to 34,El Paso,"52,360","53,292","105,651",Estimate
+43,2017,0 to 1,Fremont,402,385,787,Estimate
+43,2017,1 to 4,Fremont,806,774,"1,580",Estimate
+43,2017,5 to 14,Fremont,"2,266","2,235","4,503",Estimate
+43,2017,15 to 24,Fremont,"3,197","2,152","5,350",Estimate
+43,2017,25 to 34,Fremont,"4,407","2,064","6,473",Estimate
+45,2017,0 to 1,Garfield,835,798,"1,633",Estimate
+45,2017,1 to 4,Garfield,"1,582","1,513","3,095",Estimate
+45,2017,5 to 14,Garfield,"4,208","3,936","8,146",Estimate
+45,2017,15 to 24,Garfield,"3,753","3,441","7,195",Estimate
+45,2017,25 to 34,Garfield,"4,457","3,996","8,452",Estimate
+47,2017,0 to 1,Gilpin,46,44,88,Estimate
+47,2017,1 to 4,Gilpin,102,98,199,Estimate
+47,2017,5 to 14,Gilpin,339,327,665,Estimate
+47,2017,15 to 24,Gilpin,287,274,562,Estimate
+47,2017,25 to 34,Gilpin,282,225,505,Estimate
+49,2017,0 to 1,Grand,138,133,271,Estimate
+49,2017,1 to 4,Grand,279,269,546,Estimate
+49,2017,5 to 14,Grand,846,874,"1,721",Estimate
+49,2017,15 to 24,Grand,846,782,"1,628",Estimate
+49,2017,25 to 34,Grand,"1,003",810,"1,814",Estimate
+51,2017,0 to 1,Gunnison,158,152,310,Estimate
+51,2017,1 to 4,Gunnison,333,320,653,Estimate
+51,2017,5 to 14,Gunnison,971,871,"1,841",Estimate
+51,2017,15 to 24,Gunnison,"1,575","1,281","2,855",Estimate
+51,2017,25 to 34,Gunnison,"1,391","1,016","2,405",Estimate
+53,2017,0 to 1,Hinsdale,3,3,7,Estimate
+53,2017,1 to 4,Hinsdale,13,13,27,Estimate
+53,2017,5 to 14,Hinsdale,47,45,93,Estimate
+53,2017,15 to 24,Hinsdale,41,30,70,Estimate
+53,2017,25 to 34,Hinsdale,44,49,94,Estimate
+55,2017,0 to 1,Huerfano,48,46,95,Estimate
+55,2017,1 to 4,Huerfano,109,105,215,Estimate
+55,2017,5 to 14,Huerfano,335,300,638,Estimate
+55,2017,15 to 24,Huerfano,303,308,611,Estimate
+55,2017,25 to 34,Huerfano,285,289,574,Estimate
+57,2017,0 to 1,Jackson,14,14,28,Estimate
+57,2017,1 to 4,Jackson,25,25,50,Estimate
+57,2017,5 to 14,Jackson,77,71,139,Estimate
+57,2017,15 to 24,Jackson,70,81,147,Estimate
+57,2017,25 to 34,Jackson,77,50,126,Estimate
+59,2017,0 to 1,Jefferson,"6,111","5,848","11,959",Estimate
+59,2017,1 to 4,Jefferson,"12,364","11,853","24,218",Estimate
+59,2017,5 to 14,Jefferson,"33,433","32,039","65,472",Estimate
+59,2017,15 to 24,Jefferson,"35,808","33,318","69,127",Estimate
+59,2017,25 to 34,Jefferson,"41,486","38,180","79,664",Estimate
+61,2017,0 to 1,Kiowa,19,19,37,Estimate
+61,2017,1 to 4,Kiowa,35,35,71,Estimate
+61,2017,5 to 14,Kiowa,75,80,150,Estimate
+61,2017,15 to 24,Kiowa,88,79,167,Estimate
+61,2017,25 to 34,Kiowa,64,50,114,Estimate
+63,2017,0 to 1,Kit Carson,88,84,171,Estimate
+63,2017,1 to 4,Kit Carson,182,175,356,Estimate
+63,2017,5 to 14,Kit Carson,460,460,920,Estimate
+63,2017,15 to 24,Kit Carson,461,408,867,Estimate
+63,2017,25 to 34,Kit Carson,540,360,901,Estimate
+65,2017,0 to 1,Lake,79,76,155,Estimate
+65,2017,1 to 4,Lake,170,163,333,Estimate
+65,2017,5 to 14,Lake,546,548,"1,093",Estimate
+65,2017,15 to 24,Lake,503,490,991,Estimate
+65,2017,25 to 34,Lake,595,460,"1,055",Estimate
+67,2017,0 to 1,La Plata,533,510,"1,042",Estimate
+67,2017,1 to 4,La Plata,"1,091","1,043","2,134",Estimate
+67,2017,5 to 14,La Plata,"3,371","3,141","6,513",Estimate
+67,2017,15 to 24,La Plata,"4,142","3,972","8,115",Estimate
+67,2017,25 to 34,La Plata,"3,388","2,981","6,369",Estimate
+69,2017,0 to 1,Larimer,"3,596","3,444","7,040",Estimate
+69,2017,1 to 4,Larimer,"7,701","7,396","15,097",Estimate
+69,2017,5 to 14,Larimer,"20,874","20,051","40,925",Estimate
+69,2017,15 to 24,Larimer,"28,428","27,833","56,262",Estimate
+69,2017,25 to 34,Larimer,"23,323","23,605","46,930",Estimate
+71,2017,0 to 1,Las Animas,145,138,283,Estimate
+71,2017,1 to 4,Las Animas,274,263,537,Estimate
+71,2017,5 to 14,Las Animas,847,795,"1,641",Estimate
+71,2017,15 to 24,Las Animas,742,701,"1,441",Estimate
+71,2017,25 to 34,Las Animas,962,725,"1,687",Estimate
+73,2017,0 to 1,Lincoln,54,52,106,Estimate
+73,2017,1 to 4,Lincoln,128,123,251,Estimate
+73,2017,5 to 14,Lincoln,330,297,627,Estimate
+73,2017,15 to 24,Lincoln,370,260,631,Estimate
+73,2017,25 to 34,Lincoln,543,252,797,Estimate
+75,2017,0 to 1,Logan,231,221,452,Estimate
+75,2017,1 to 4,Logan,460,441,901,Estimate
+75,2017,5 to 14,Logan,"1,184","1,120","2,306",Estimate
+75,2017,15 to 24,Logan,"1,595","1,086","2,679",Estimate
+75,2017,25 to 34,Logan,"2,391","1,215","3,606",Estimate
+77,2017,0 to 1,Mesa,"1,722","1,646","3,368",Estimate
+77,2017,1 to 4,Mesa,"3,649","3,489","7,138",Estimate
+77,2017,5 to 14,Mesa,"9,938","9,641","19,582",Estimate
+77,2017,15 to 24,Mesa,"10,469","10,036","20,506",Estimate
+77,2017,25 to 34,Mesa,"9,692","9,099","18,790",Estimate
+79,2017,0 to 1,Mineral,8,7,15,Estimate
+79,2017,1 to 4,Mineral,13,12,26,Estimate
+79,2017,5 to 14,Mineral,32,32,65,Estimate
+79,2017,15 to 24,Mineral,37,20,59,Estimate
+79,2017,25 to 34,Mineral,30,32,60,Estimate
+81,2017,0 to 1,Moffat,184,176,359,Estimate
+81,2017,1 to 4,Moffat,376,360,737,Estimate
+81,2017,5 to 14,Moffat,"1,017",906,"1,924",Estimate
+81,2017,15 to 24,Moffat,858,808,"1,664",Estimate
+81,2017,25 to 34,Moffat,757,761,"1,515",Estimate
+83,2017,0 to 1,Montezuma,287,274,560,Estimate
+83,2017,1 to 4,Montezuma,658,631,"1,288",Estimate
+83,2017,5 to 14,Montezuma,"1,722","1,597","3,318",Estimate
+83,2017,15 to 24,Montezuma,"1,614","1,486","3,101",Estimate
+83,2017,25 to 34,Montezuma,"1,380","1,322","2,702",Estimate
+85,2017,0 to 1,Montrose,452,432,884,Estimate
+85,2017,1 to 4,Montrose,924,884,"1,809",Estimate
+85,2017,5 to 14,Montrose,"2,740","2,562","5,298",Estimate
+85,2017,15 to 24,Montrose,"2,726","2,613","5,337",Estimate
+85,2017,25 to 34,Montrose,"1,873","1,784","3,656",Estimate
+87,2017,0 to 1,Morgan,422,403,825,Estimate
+87,2017,1 to 4,Morgan,864,827,"1,692",Estimate
+87,2017,5 to 14,Morgan,"2,103","2,106","4,209",Estimate
+87,2017,15 to 24,Morgan,"1,996","1,907","3,903",Estimate
+87,2017,25 to 34,Morgan,"1,651","1,717","3,366",Estimate
+89,2017,0 to 1,Otero,233,223,455,Estimate
+89,2017,1 to 4,Otero,443,423,866,Estimate
+89,2017,5 to 14,Otero,"1,350","1,295","2,647",Estimate
+89,2017,15 to 24,Otero,"1,127","1,008","2,135",Estimate
+89,2017,25 to 34,Otero,"1,032","1,063","2,095",Estimate
+91,2017,0 to 1,Ouray,37,35,70,Estimate
+91,2017,1 to 4,Ouray,76,72,146,Estimate
+91,2017,5 to 14,Ouray,234,222,455,Estimate
+91,2017,15 to 24,Ouray,255,259,510,Estimate
+91,2017,25 to 34,Ouray,190,181,373,Estimate
+93,2017,0 to 1,Park,133,128,260,Estimate
+93,2017,1 to 4,Park,273,265,538,Estimate
+93,2017,5 to 14,Park,967,906,"1,874",Estimate
+93,2017,15 to 24,Park,862,810,"1,673",Estimate
+93,2017,25 to 34,Park,759,661,"1,422",Estimate
+95,2017,0 to 1,Phillips,62,59,122,Estimate
+95,2017,1 to 4,Phillips,118,112,231,Estimate
+95,2017,5 to 14,Phillips,293,287,585,Estimate
+95,2017,15 to 24,Phillips,241,259,500,Estimate
+95,2017,25 to 34,Phillips,197,180,376,Estimate
+97,2017,0 to 1,Pitkin,155,148,303,Estimate
+97,2017,1 to 4,Pitkin,262,250,511,Estimate
+97,2017,5 to 14,Pitkin,784,726,"1,510",Estimate
+97,2017,15 to 24,Pitkin,967,950,"1,916",Estimate
+97,2017,25 to 34,Pitkin,"1,375","1,202","2,580",Estimate
+99,2017,0 to 1,Prowers,179,171,349,Estimate
+99,2017,1 to 4,Prowers,340,326,665,Estimate
+99,2017,5 to 14,Prowers,970,901,"1,869",Estimate
+99,2017,15 to 24,Prowers,750,675,"1,424",Estimate
+99,2017,25 to 34,Prowers,693,714,"1,407",Estimate
+101,2017,0 to 1,Pueblo,"1,870","1,789","3,659",Estimate
+101,2017,1 to 4,Pueblo,"3,843","3,681","7,524",Estimate
+101,2017,5 to 14,Pueblo,"10,987","10,324","21,314",Estimate
+101,2017,15 to 24,Pueblo,"12,337","11,482","23,821",Estimate
+101,2017,25 to 34,Pueblo,"9,845","9,660","19,509",Estimate
+103,2017,0 to 1,Rio Blanco,72,68,139,Estimate
+103,2017,1 to 4,Rio Blanco,154,146,299,Estimate
+103,2017,5 to 14,Rio Blanco,471,433,901,Estimate
+103,2017,15 to 24,Rio Blanco,389,360,750,Estimate
+103,2017,25 to 34,Rio Blanco,444,412,860,Estimate
+105,2017,0 to 1,Rio Grande,132,126,258,Estimate
+105,2017,1 to 4,Rio Grande,289,277,565,Estimate
+105,2017,5 to 14,Rio Grande,832,761,"1,592",Estimate
+105,2017,15 to 24,Rio Grande,642,644,"1,289",Estimate
+105,2017,25 to 34,Rio Grande,588,586,"1,173",Estimate
+107,2017,0 to 1,Routt,254,244,499,Estimate
+107,2017,1 to 4,Routt,501,483,984,Estimate
+107,2017,5 to 14,Routt,"1,491","1,472","2,964",Estimate
+107,2017,15 to 24,Routt,"1,493","1,386","2,881",Estimate
+107,2017,25 to 34,Routt,"1,922","1,595","3,518",Estimate
+109,2017,0 to 1,Saguache,77,75,152,Estimate
+109,2017,1 to 4,Saguache,157,152,309,Estimate
+109,2017,5 to 14,Saguache,439,454,895,Estimate
+109,2017,15 to 24,Saguache,327,332,658,Estimate
+109,2017,25 to 34,Saguache,391,356,747,Estimate
+111,2017,0 to 1,San Juan,6,6,11,Estimate
+111,2017,1 to 4,San Juan,11,11,20,Estimate
+111,2017,5 to 14,San Juan,43,29,71,Estimate
+111,2017,15 to 24,San Juan,44,23,67,Estimate
+111,2017,25 to 34,San Juan,35,42,75,Estimate
+113,2017,0 to 1,San Miguel,74,70,144,Estimate
+113,2017,1 to 4,San Miguel,160,155,315,Estimate
+113,2017,5 to 14,San Miguel,516,492,"1,011",Estimate
+113,2017,15 to 24,San Miguel,418,400,821,Estimate
+113,2017,25 to 34,San Miguel,620,523,"1,144",Estimate
+115,2017,0 to 1,Sedgwick,25,24,48,Estimate
+115,2017,1 to 4,Sedgwick,56,53,109,Estimate
+115,2017,5 to 14,Sedgwick,129,138,266,Estimate
+115,2017,15 to 24,Sedgwick,116,104,221,Estimate
+115,2017,25 to 34,Sedgwick,106,102,208,Estimate
+117,2017,0 to 1,Summit,285,273,559,Estimate
+117,2017,1 to 4,Summit,510,488,997,Estimate
+117,2017,5 to 14,Summit,"1,313","1,207","2,519",Estimate
+117,2017,15 to 24,Summit,"1,997","1,738","3,735",Estimate
+117,2017,25 to 34,Summit,"4,331","3,922","8,252",Estimate
+119,2017,0 to 1,Teller,200,191,390,Estimate
+119,2017,1 to 4,Teller,423,406,831,Estimate
+119,2017,5 to 14,Teller,"1,317","1,238","2,555",Estimate
+119,2017,15 to 24,Teller,"1,478","1,334","2,811",Estimate
+119,2017,25 to 34,Teller,"1,259","1,166","2,427",Estimate
+121,2017,0 to 1,Washington,55,53,107,Estimate
+121,2017,1 to 4,Washington,105,102,207,Estimate
+121,2017,5 to 14,Washington,301,282,584,Estimate
+121,2017,15 to 24,Washington,298,274,570,Estimate
+121,2017,25 to 34,Washington,289,232,519,Estimate
+123,2017,0 to 1,Weld,"4,541","4,349","8,890",Estimate
+123,2017,1 to 4,Weld,"8,918","8,567","17,485",Estimate
+123,2017,5 to 14,Weld,"22,971","22,113","45,084",Estimate
+123,2017,15 to 24,Weld,"24,372","23,868","48,242",Estimate
+123,2017,25 to 34,Weld,"21,853","21,644","43,497",Estimate
+125,2017,0 to 1,Yuma,148,142,289,Estimate
+125,2017,1 to 4,Yuma,292,280,570,Estimate
+125,2017,5 to 14,Yuma,746,823,"1,571",Estimate
+125,2017,15 to 24,Yuma,564,555,"1,116",Estimate
+125,2017,25 to 34,Yuma,570,518,"1,088",Estimate
+1,2017,35 to 44,Adams,"37,217","35,648","72,866",Estimate
+1,2017,45 to 54,Adams,"31,499","30,160","61,657",Estimate
+1,2017,55 to 64,Adams,"25,821","26,566","52,388",Estimate
+1,2017,65 to 74,Adams,"14,907","16,719","31,625",Estimate
+1,2017,75 to 84,Adams,"5,982","8,109","14,090",Estimate
+3,2017,35 to 44,Alamosa,943,887,"1,827",Estimate
+3,2017,45 to 54,Alamosa,842,834,"1,677",Estimate
+3,2017,55 to 64,Alamosa,971,"1,057","2,027",Estimate
+3,2017,65 to 74,Alamosa,657,707,"1,364",Estimate
+3,2017,75 to 84,Alamosa,270,318,589,Estimate
+5,2017,35 to 44,Arapahoe,"42,632","43,921","86,552",Estimate
+5,2017,45 to 54,Arapahoe,"41,046","42,839","83,885",Estimate
+5,2017,55 to 64,Arapahoe,"37,771","41,760","79,533",Estimate
+5,2017,65 to 74,Arapahoe,"23,218","26,870","50,091",Estimate
+5,2017,75 to 84,Arapahoe,"9,697","12,474","22,171",Estimate
+7,2017,35 to 44,Archuleta,714,684,"1,397",Estimate
+7,2017,45 to 54,Archuleta,770,868,"1,641",Estimate
+7,2017,55 to 64,Archuleta,"1,192","1,267","2,457",Estimate
+7,2017,65 to 74,Archuleta,"1,100","1,081","2,179",Estimate
+7,2017,75 to 84,Archuleta,457,440,896,Estimate
+9,2017,35 to 44,Baca,204,184,389,Estimate
+9,2017,45 to 54,Baca,210,192,405,Estimate
+9,2017,55 to 64,Baca,263,263,527,Estimate
+9,2017,65 to 74,Baca,208,222,430,Estimate
+9,2017,75 to 84,Baca,129,158,287,Estimate
+11,2017,35 to 44,Bent,627,254,881,Estimate
+11,2017,45 to 54,Bent,448,226,675,Estimate
+11,2017,55 to 64,Bent,432,284,716,Estimate
+11,2017,65 to 74,Bent,334,239,573,Estimate
+11,2017,75 to 84,Bent,155,160,314,Estimate
+13,2017,35 to 44,Boulder,"19,974","19,456","39,430",Estimate
+13,2017,45 to 54,Boulder,"21,870","22,084","43,952",Estimate
+13,2017,55 to 64,Boulder,"21,204","22,289","43,493",Estimate
+13,2017,65 to 74,Boulder,"13,566","14,295","27,860",Estimate
+13,2017,75 to 84,Boulder,"5,134","6,226","11,359",Estimate
+14,2017,35 to 44,Broomfield,"4,843","4,851","9,694",Estimate
+14,2017,45 to 54,Broomfield,"4,634","4,626","9,261",Estimate
+14,2017,55 to 64,Broomfield,"3,737","3,873","7,608",Estimate
+14,2017,65 to 74,Broomfield,"2,351","2,652","5,006",Estimate
+14,2017,75 to 84,Broomfield,"1,281","1,616","2,900",Estimate
+15,2017,35 to 44,Chaffee,"1,313",988,"2,301",Estimate
+15,2017,45 to 54,Chaffee,"1,359","1,146","2,505",Estimate
+15,2017,55 to 64,Chaffee,"1,546","1,595","3,140",Estimate
+15,2017,65 to 74,Chaffee,"1,335","1,474","2,812",Estimate
+15,2017,75 to 84,Chaffee,729,715,"1,444",Estimate
+17,2017,35 to 44,Cheyenne,115,113,222,Estimate
+17,2017,45 to 54,Cheyenne,125,89,219,Estimate
+17,2017,55 to 64,Cheyenne,134,145,276,Estimate
+17,2017,65 to 74,Cheyenne,100,100,199,Estimate
+17,2017,75 to 84,Cheyenne,48,59,106,Estimate
+19,2017,35 to 44,Clear Creek,654,556,"1,209",Estimate
+19,2017,45 to 54,Clear Creek,788,776,"1,565",Estimate
+19,2017,55 to 64,Clear Creek,941,957,"1,897",Estimate
+19,2017,65 to 74,Clear Creek,697,600,"1,299",Estimate
+19,2017,75 to 84,Clear Creek,214,204,419,Estimate
+21,2017,35 to 44,Conejos,445,432,877,Estimate
+21,2017,45 to 54,Conejos,482,461,945,Estimate
+21,2017,55 to 64,Conejos,548,550,"1,099",Estimate
+21,2017,65 to 74,Conejos,411,443,853,Estimate
+21,2017,75 to 84,Conejos,235,254,490,Estimate
+23,2017,35 to 44,Costilla,176,178,354,Estimate
+23,2017,45 to 54,Costilla,229,213,441,Estimate
+23,2017,55 to 64,Costilla,304,303,605,Estimate
+23,2017,65 to 74,Costilla,312,274,586,Estimate
+23,2017,75 to 84,Costilla,173,169,338,Estimate
+25,2017,35 to 44,Crowley,815,201,"1,016",Estimate
+25,2017,45 to 54,Crowley,615,198,817,Estimate
+25,2017,55 to 64,Crowley,372,237,609,Estimate
+25,2017,65 to 74,Crowley,202,220,423,Estimate
+25,2017,75 to 84,Crowley,135,122,259,Estimate
+27,2017,35 to 44,Custer,252,209,460,Estimate
+27,2017,45 to 54,Custer,261,251,510,Estimate
+27,2017,55 to 64,Custer,436,482,921,Estimate
+27,2017,65 to 74,Custer,493,472,965,Estimate
+27,2017,75 to 84,Custer,236,193,431,Estimate
+29,2017,35 to 44,Delta,"1,728","1,629","3,361",Estimate
+29,2017,45 to 54,Delta,"1,835","1,829","3,665",Estimate
+29,2017,55 to 64,Delta,"2,313","2,396","4,709",Estimate
+29,2017,65 to 74,Delta,"2,027","2,163","4,190",Estimate
+29,2017,75 to 84,Delta,"1,179","1,325","2,504",Estimate
+31,2017,35 to 44,Denver,"56,576","53,626","110,200",Estimate
+31,2017,45 to 54,Denver,"46,177","40,756","86,931",Estimate
+31,2017,55 to 64,Denver,"38,052","38,012","76,065",Estimate
+31,2017,65 to 74,Denver,"23,517","26,125","49,641",Estimate
+31,2017,75 to 84,Denver,"9,144","12,385","21,529",Estimate
+33,2017,35 to 44,Dolores,129,124,254,Estimate
+33,2017,45 to 54,Dolores,124,127,253,Estimate
+33,2017,55 to 64,Dolores,137,132,273,Estimate
+33,2017,65 to 74,Dolores,151,142,293,Estimate
+33,2017,75 to 84,Dolores,87,71,158,Estimate
+35,2017,35 to 44,Douglas,"23,479","25,574","49,055",Estimate
+35,2017,45 to 54,Douglas,"27,730","28,703","56,436",Estimate
+35,2017,55 to 64,Douglas,"20,859","21,652","42,515",Estimate
+35,2017,65 to 74,Douglas,"12,369","13,345","25,714",Estimate
+35,2017,75 to 84,Douglas,"4,353","4,928","9,282",Estimate
+37,2017,35 to 44,Eagle,"4,509","3,858","8,371",Estimate
+37,2017,45 to 54,Eagle,"4,223","3,679","7,902",Estimate
+37,2017,55 to 64,Eagle,"3,356","3,065","6,421",Estimate
+37,2017,65 to 74,Eagle,"2,277","2,135","4,411",Estimate
+37,2017,75 to 84,Eagle,645,597,"1,240",Estimate
+39,2017,35 to 44,Elbert,"1,299","1,378","2,676",Estimate
+39,2017,45 to 54,Elbert,"2,020","2,179","4,199",Estimate
+39,2017,55 to 64,Elbert,"2,330","2,417","4,748",Estimate
+39,2017,65 to 74,Elbert,"1,467","1,439","2,907",Estimate
+39,2017,75 to 84,Elbert,469,447,917,Estimate
+41,2017,35 to 44,El Paso,"40,407","42,793","83,199",Estimate
+41,2017,45 to 54,El Paso,"41,203","44,543","85,746",Estimate
+41,2017,55 to 64,El Paso,"39,508","44,039","83,547",Estimate
+41,2017,65 to 74,El Paso,"24,542","28,480","53,022",Estimate
+41,2017,75 to 84,El Paso,"10,395","14,266","24,659",Estimate
+43,2017,35 to 44,Fremont,"4,639","1,949","6,586",Estimate
+43,2017,45 to 54,Fremont,"3,815","2,432","6,249",Estimate
+43,2017,55 to 64,Fremont,"3,241","3,184","6,426",Estimate
+43,2017,65 to 74,Fremont,"2,761","2,889","5,649",Estimate
+43,2017,75 to 84,Fremont,"1,492","1,647","3,138",Estimate
+45,2017,35 to 44,Garfield,"4,539","4,290","8,829",Estimate
+45,2017,45 to 54,Garfield,"4,017","3,758","7,777",Estimate
+45,2017,55 to 64,Garfield,"3,851","3,746","7,595",Estimate
+45,2017,65 to 74,Garfield,"2,413","2,330","4,743",Estimate
+45,2017,75 to 84,Garfield,858,929,"1,787",Estimate
+47,2017,35 to 44,Gilpin,441,426,866,Estimate
+47,2017,45 to 54,Gilpin,548,481,"1,026",Estimate
+47,2017,55 to 64,Gilpin,623,565,"1,190",Estimate
+47,2017,65 to 74,Gilpin,378,342,721,Estimate
+47,2017,75 to 84,Gilpin,88,90,179,Estimate
+49,2017,35 to 44,Grand,"1,069",917,"1,988",Estimate
+49,2017,45 to 54,Grand,"1,203","1,072","2,274",Estimate
+49,2017,55 to 64,Grand,"1,366","1,301","2,668",Estimate
+49,2017,65 to 74,Grand,992,800,"1,790",Estimate
+49,2017,75 to 84,Grand,326,270,595,Estimate
+51,2017,35 to 44,Gunnison,"1,364","1,139","2,502",Estimate
+51,2017,45 to 54,Gunnison,"1,190","1,070","2,260",Estimate
+51,2017,55 to 64,Gunnison,"1,053","1,016","2,070",Estimate
+51,2017,65 to 74,Gunnison,788,716,"1,500",Estimate
+51,2017,75 to 84,Gunnison,245,238,485,Estimate
+53,2017,35 to 44,Hinsdale,38,41,79,Estimate
+53,2017,45 to 54,Hinsdale,44,37,81,Estimate
+53,2017,55 to 64,Hinsdale,55,57,113,Estimate
+53,2017,65 to 74,Hinsdale,70,68,137,Estimate
+53,2017,75 to 84,Hinsdale,38,31,67,Estimate
+55,2017,35 to 44,Huerfano,300,289,589,Estimate
+55,2017,45 to 54,Huerfano,372,356,728,Estimate
+55,2017,55 to 64,Huerfano,530,631,"1,160",Estimate
+55,2017,65 to 74,Huerfano,582,576,"1,159",Estimate
+55,2017,75 to 84,Huerfano,315,334,649,Estimate
+57,2017,35 to 44,Jackson,70,77,143,Estimate
+57,2017,45 to 54,Jackson,93,82,178,Estimate
+57,2017,55 to 64,Jackson,143,119,263,Estimate
+57,2017,65 to 74,Jackson,93,84,178,Estimate
+57,2017,75 to 84,Jackson,41,50,90,Estimate
+59,2017,35 to 44,Jefferson,"37,323","36,105","73,427",Estimate
+59,2017,45 to 54,Jefferson,"38,550","40,203","78,753",Estimate
+59,2017,55 to 64,Jefferson,"41,824","44,914","86,740",Estimate
+59,2017,65 to 74,Jefferson,"26,614","30,013","56,626",Estimate
+59,2017,75 to 84,Jefferson,"10,886","13,884","24,768",Estimate
+61,2017,35 to 44,Kiowa,72,77,145,Estimate
+61,2017,45 to 54,Kiowa,72,76,152,Estimate
+61,2017,55 to 64,Kiowa,109,114,222,Estimate
+61,2017,65 to 74,Kiowa,83,89,175,Estimate
+61,2017,75 to 84,Kiowa,47,60,106,Estimate
+63,2017,35 to 44,Kit Carson,511,370,881,Estimate
+63,2017,45 to 54,Kit Carson,489,374,864,Estimate
+63,2017,55 to 64,Kit Carson,493,426,918,Estimate
+63,2017,65 to 74,Kit Carson,331,354,681,Estimate
+63,2017,75 to 84,Kit Carson,225,247,470,Estimate
+65,2017,35 to 44,Lake,648,551,"1,199",Estimate
+65,2017,45 to 54,Lake,537,446,984,Estimate
+65,2017,55 to 64,Lake,474,416,889,Estimate
+65,2017,65 to 74,Lake,363,335,697,Estimate
+65,2017,75 to 84,Lake,140,128,267,Estimate
+67,2017,35 to 44,La Plata,"3,622","3,307","6,930",Estimate
+67,2017,45 to 54,La Plata,"3,609","3,655","7,264",Estimate
+67,2017,55 to 64,La Plata,"4,183","4,479","8,662",Estimate
+67,2017,65 to 74,La Plata,"3,072","2,981","6,054",Estimate
+67,2017,75 to 84,La Plata,"1,138","1,131","2,269",Estimate
+69,2017,35 to 44,Larimer,"22,943","21,746","44,689",Estimate
+69,2017,45 to 54,Larimer,"20,089","20,225","40,314",Estimate
+69,2017,55 to 64,Larimer,"21,948","22,455","44,402",Estimate
+69,2017,65 to 74,Larimer,"15,279","16,408","31,688",Estimate
+69,2017,75 to 84,Larimer,"6,241","7,843","14,087",Estimate
+71,2017,35 to 44,Las Animas,826,730,"1,553",Estimate
+71,2017,45 to 54,Las Animas,839,800,"1,638",Estimate
+71,2017,55 to 64,Las Animas,"1,096","1,090","2,187",Estimate
+71,2017,65 to 74,Las Animas,965,950,"1,917",Estimate
+71,2017,75 to 84,Las Animas,478,553,"1,030",Estimate
+73,2017,35 to 44,Lincoln,480,248,724,Estimate
+73,2017,45 to 54,Lincoln,394,311,702,Estimate
+73,2017,55 to 64,Lincoln,423,313,736,Estimate
+73,2017,65 to 74,Lincoln,223,247,469,Estimate
+73,2017,75 to 84,Lincoln,172,175,346,Estimate
+75,2017,35 to 44,Logan,"1,947","1,176","3,123",Estimate
+75,2017,45 to 54,Logan,"1,379","1,095","2,476",Estimate
+75,2017,55 to 64,Logan,"1,558","1,308","2,868",Estimate
+75,2017,65 to 74,Logan,"1,008",970,"1,978",Estimate
+75,2017,75 to 84,Logan,525,641,"1,170",Estimate
+77,2017,35 to 44,Mesa,"9,372","8,846","18,215",Estimate
+77,2017,45 to 54,Mesa,"8,660","8,660","17,321",Estimate
+77,2017,55 to 64,Mesa,"10,113","10,773","20,886",Estimate
+77,2017,65 to 74,Mesa,"7,604","8,138","15,745",Estimate
+77,2017,75 to 84,Mesa,"3,692","4,445","8,140",Estimate
+79,2017,35 to 44,Mineral,43,36,74,Estimate
+79,2017,45 to 54,Mineral,31,39,77,Estimate
+79,2017,55 to 64,Mineral,75,63,139,Estimate
+79,2017,65 to 74,Mineral,80,70,151,Estimate
+79,2017,75 to 84,Mineral,29,41,73,Estimate
+81,2017,35 to 44,Moffat,907,813,"1,721",Estimate
+81,2017,45 to 54,Moffat,806,801,"1,607",Estimate
+81,2017,55 to 64,Moffat,903,895,"1,799",Estimate
+81,2017,65 to 74,Moffat,612,569,"1,177",Estimate
+81,2017,75 to 84,Moffat,260,282,544,Estimate
+83,2017,35 to 44,Montezuma,"1,389","1,471","2,860",Estimate
+83,2017,45 to 54,Montezuma,"1,496","1,581","3,075",Estimate
+83,2017,55 to 64,Montezuma,"1,855","2,091","3,946",Estimate
+83,2017,65 to 74,Montezuma,"1,603","1,698","3,300",Estimate
+83,2017,75 to 84,Montezuma,745,825,"1,569",Estimate
+85,2017,35 to 44,Montrose,"2,277","2,384","4,664",Estimate
+85,2017,45 to 54,Montrose,"2,521","2,592","5,111",Estimate
+85,2017,55 to 64,Montrose,"2,944","3,133","6,076",Estimate
+85,2017,65 to 74,Montrose,"2,448","2,664","5,110",Estimate
+85,2017,75 to 84,Montrose,"1,404","1,600","3,006",Estimate
+87,2017,35 to 44,Morgan,"1,632","1,664","3,299",Estimate
+87,2017,45 to 54,Morgan,"1,722","1,698","3,420",Estimate
+87,2017,55 to 64,Morgan,"1,756","1,741","3,497",Estimate
+87,2017,65 to 74,Morgan,"1,107","1,228","2,337",Estimate
+87,2017,75 to 84,Morgan,625,752,"1,375",Estimate
+89,2017,35 to 44,Otero,983,"1,068","2,054",Estimate
+89,2017,45 to 54,Otero,"1,074","1,135","2,209",Estimate
+89,2017,55 to 64,Otero,"1,208","1,272","2,483",Estimate
+89,2017,65 to 74,Otero,945,"1,002","1,948",Estimate
+89,2017,75 to 84,Otero,520,671,"1,193",Estimate
+91,2017,35 to 44,Ouray,262,239,500,Estimate
+91,2017,45 to 54,Ouray,323,306,630,Estimate
+91,2017,55 to 64,Ouray,408,457,865,Estimate
+91,2017,65 to 74,Ouray,418,440,859,Estimate
+91,2017,75 to 84,Ouray,171,150,320,Estimate
+93,2017,35 to 44,Park,"1,107",998,"2,105",Estimate
+93,2017,45 to 54,Park,"1,425","1,381","2,805",Estimate
+93,2017,55 to 64,Park,"1,985","1,894","3,878",Estimate
+93,2017,65 to 74,Park,"1,315","1,215","2,533",Estimate
+93,2017,75 to 84,Park,432,359,792,Estimate
+95,2017,35 to 44,Phillips,230,226,453,Estimate
+95,2017,45 to 54,Phillips,271,258,527,Estimate
+95,2017,55 to 64,Phillips,300,306,602,Estimate
+95,2017,65 to 74,Phillips,227,222,450,Estimate
+95,2017,75 to 84,Phillips,135,174,313,Estimate
+97,2017,35 to 44,Pitkin,"1,199","1,033","2,233",Estimate
+97,2017,45 to 54,Pitkin,"1,530","1,284","2,813",Estimate
+97,2017,55 to 64,Pitkin,"1,471","1,419","2,892",Estimate
+97,2017,65 to 74,Pitkin,"1,199","1,111","2,311",Estimate
+97,2017,75 to 84,Pitkin,428,339,768,Estimate
+99,2017,35 to 44,Prowers,720,736,"1,458",Estimate
+99,2017,45 to 54,Prowers,661,673,"1,335",Estimate
+99,2017,55 to 64,Prowers,797,829,"1,626",Estimate
+99,2017,65 to 74,Prowers,562,621,"1,184",Estimate
+99,2017,75 to 84,Prowers,259,351,609,Estimate
+101,2017,35 to 44,Pueblo,"9,632","9,928","19,557",Estimate
+101,2017,45 to 54,Pueblo,"9,927","10,288","20,212",Estimate
+101,2017,55 to 64,Pueblo,"10,552","11,611","22,163",Estimate
+101,2017,65 to 74,Pueblo,"8,191","9,020","17,211",Estimate
+101,2017,75 to 84,Pueblo,"3,927","4,904","8,830",Estimate
+103,2017,35 to 44,Rio Blanco,410,380,790,Estimate
+103,2017,45 to 54,Rio Blanco,398,375,774,Estimate
+103,2017,55 to 64,Rio Blanco,475,461,935,Estimate
+103,2017,65 to 74,Rio Blanco,279,273,550,Estimate
+103,2017,75 to 84,Rio Blanco,133,153,286,Estimate
+105,2017,35 to 44,Rio Grande,633,675,"1,310",Estimate
+105,2017,45 to 54,Rio Grande,636,700,"1,338",Estimate
+105,2017,55 to 64,Rio Grande,822,856,"1,677",Estimate
+105,2017,65 to 74,Rio Grande,620,644,"1,263",Estimate
+105,2017,75 to 84,Rio Grande,322,343,664,Estimate
+107,2017,35 to 44,Routt,"2,143","1,818","3,961",Estimate
+107,2017,45 to 54,Routt,"1,852","1,678","3,528",Estimate
+107,2017,55 to 64,Routt,"1,785","1,760","3,546",Estimate
+107,2017,65 to 74,Routt,"1,360","1,219","2,581",Estimate
+107,2017,75 to 84,Routt,447,406,855,Estimate
+109,2017,35 to 44,Saguache,394,368,762,Estimate
+109,2017,45 to 54,Saguache,386,390,775,Estimate
+109,2017,55 to 64,Saguache,480,489,969,Estimate
+109,2017,65 to 74,Saguache,485,436,922,Estimate
+109,2017,75 to 84,Saguache,214,202,413,Estimate
+111,2017,35 to 44,San Juan,48,57,103,Estimate
+111,2017,45 to 54,San Juan,54,36,89,Estimate
+111,2017,55 to 64,San Juan,50,46,96,Estimate
+111,2017,65 to 74,San Juan,66,55,124,Estimate
+111,2017,75 to 84,San Juan,26,19,45,Estimate
+113,2017,35 to 44,San Miguel,706,573,"1,279",Estimate
+113,2017,45 to 54,San Miguel,646,605,"1,251",Estimate
+113,2017,55 to 64,San Miguel,568,496,"1,061",Estimate
+113,2017,65 to 74,San Miguel,458,387,847,Estimate
+113,2017,75 to 84,San Miguel,106,91,198,Estimate
+115,2017,35 to 44,Sedgwick,116,116,232,Estimate
+115,2017,45 to 54,Sedgwick,134,126,260,Estimate
+115,2017,55 to 64,Sedgwick,200,195,396,Estimate
+115,2017,65 to 74,Sedgwick,146,155,302,Estimate
+115,2017,75 to 84,Sedgwick,83,106,190,Estimate
+117,2017,35 to 44,Summit,"2,192","1,567","3,757",Estimate
+117,2017,45 to 54,Summit,"2,129","1,774","3,900",Estimate
+117,2017,55 to 64,Summit,"1,864","1,657","3,522",Estimate
+117,2017,65 to 74,Summit,"1,490","1,371","2,860",Estimate
+117,2017,75 to 84,Summit,515,447,962,Estimate
+119,2017,35 to 44,Teller,"1,321","1,327","2,649",Estimate
+119,2017,45 to 54,Teller,"1,743","1,817","3,561",Estimate
+119,2017,55 to 64,Teller,"2,177","2,298","4,471",Estimate
+119,2017,65 to 74,Teller,"1,786","1,736","3,524",Estimate
+119,2017,75 to 84,Teller,648,608,"1,256",Estimate
+121,2017,35 to 44,Washington,302,253,554,Estimate
+121,2017,45 to 54,Washington,318,282,598,Estimate
+121,2017,55 to 64,Washington,350,375,724,Estimate
+121,2017,65 to 74,Washington,243,243,487,Estimate
+121,2017,75 to 84,Washington,146,156,302,Estimate
+123,2017,35 to 44,Weld,"21,673","21,110","42,784",Estimate
+123,2017,45 to 54,Weld,"18,355","17,811","36,167",Estimate
+123,2017,55 to 64,Weld,"15,550","15,770","31,322",Estimate
+123,2017,65 to 74,Weld,"10,558","11,542","22,103",Estimate
+123,2017,75 to 84,Weld,"4,629","5,584","10,212",Estimate
+125,2017,35 to 44,Yuma,679,603,"1,284",Estimate
+125,2017,45 to 54,Yuma,634,587,"1,224",Estimate
+125,2017,55 to 64,Yuma,616,630,"1,247",Estimate
+125,2017,65 to 74,Yuma,448,534,981,Estimate
+125,2017,75 to 84,Yuma,262,298,558,Estimate
+1,2017,85 to 110,Adams,"1,919","3,379","5,297",Estimate
+3,2017,85 to 110,Alamosa,81,138,218,Estimate
+5,2017,85 to 110,Arapahoe,"3,256","6,122","9,379",Estimate
+7,2017,85 to 110,Archuleta,133,165,295,Estimate
+9,2017,85 to 110,Baca,61,111,173,Estimate
+11,2017,85 to 110,Bent,57,90,148,Estimate
+13,2017,85 to 110,Boulder,"1,828","3,251","5,076",Estimate
+14,2017,85 to 110,Broomfield,369,724,"1,090",Estimate
+15,2017,85 to 110,Chaffee,235,345,581,Estimate
+17,2017,85 to 110,Cheyenne,18,46,64,Estimate
+19,2017,85 to 110,Clear Creek,55,76,132,Estimate
+21,2017,85 to 110,Conejos,84,123,203,Estimate
+23,2017,85 to 110,Costilla,42,66,108,Estimate
+25,2017,85 to 110,Crowley,36,64,100,Estimate
+27,2017,85 to 110,Custer,44,65,111,Estimate
+29,2017,85 to 110,Delta,404,584,991,Estimate
+31,2017,85 to 110,Denver,"3,748","7,412","11,160",Estimate
+33,2017,85 to 110,Dolores,26,37,63,Estimate
+35,2017,85 to 110,Douglas,"1,237","1,865","3,100",Estimate
+37,2017,85 to 110,Eagle,137,149,282,Estimate
+39,2017,85 to 110,Elbert,101,144,246,Estimate
+41,2017,85 to 110,El Paso,"3,402","6,071","9,475",Estimate
+43,2017,85 to 110,Fremont,515,762,"1,274",Estimate
+45,2017,85 to 110,Garfield,275,465,742,Estimate
+47,2017,85 to 110,Gilpin,24,22,48,Estimate
+49,2017,85 to 110,Grand,95,94,193,Estimate
+51,2017,85 to 110,Gunnison,69,98,169,Estimate
+53,2017,85 to 110,Hinsdale,12,13,22,Estimate
+55,2017,85 to 110,Huerfano,103,143,247,Estimate
+57,2017,85 to 110,Jackson,19,22,44,Estimate
+59,2017,85 to 110,Jefferson,"4,066","6,936","11,003",Estimate
+61,2017,85 to 110,Kiowa,20,25,44,Estimate
+63,2017,85 to 110,Kit Carson,82,131,212,Estimate
+65,2017,85 to 110,Lake,33,60,95,Estimate
+67,2017,85 to 110,La Plata,339,530,869,Estimate
+69,2017,85 to 110,Larimer,"2,277","3,959","6,235",Estimate
+71,2017,85 to 110,Las Animas,158,269,424,Estimate
+73,2017,85 to 110,Lincoln,71,108,180,Estimate
+75,2017,85 to 110,Logan,193,352,548,Estimate
+77,2017,85 to 110,Mesa,"1,469","2,477","3,945",Estimate
+79,2017,85 to 110,Mineral,10,11,22,Estimate
+81,2017,85 to 110,Moffat,87,153,242,Estimate
+83,2017,85 to 110,Montezuma,280,414,691,Estimate
+85,2017,85 to 110,Montrose,483,785,"1,267",Estimate
+87,2017,85 to 110,Morgan,234,411,645,Estimate
+89,2017,85 to 110,Otero,188,331,518,Estimate
+91,2017,85 to 110,Ouray,41,56,101,Estimate
+93,2017,85 to 110,Park,71,94,165,Estimate
+95,2017,85 to 110,Phillips,72,128,200,Estimate
+97,2017,85 to 110,Pitkin,129,120,247,Estimate
+99,2017,85 to 110,Prowers,100,179,278,Estimate
+101,2017,85 to 110,Pueblo,"1,506","2,539","4,044",Estimate
+103,2017,85 to 110,Rio Blanco,49,74,122,Estimate
+105,2017,85 to 110,Rio Grande,122,169,292,Estimate
+107,2017,85 to 110,Routt,111,160,271,Estimate
+109,2017,85 to 110,Saguache,47,66,116,Estimate
+111,2017,85 to 110,San Juan,4,4,7,Estimate
+113,2017,85 to 110,San Miguel,21,28,51,Estimate
+115,2017,85 to 110,Sedgwick,39,72,114,Estimate
+117,2017,85 to 110,Summit,113,85,196,Estimate
+119,2017,85 to 110,Teller,152,198,351,Estimate
+121,2017,85 to 110,Washington,63,107,171,Estimate
+123,2017,85 to 110,Weld,"1,489","2,462","3,950",Estimate
+125,2017,85 to 110,Yuma,91,164,257,Estimate
+1,2017,0,Adams,"3,657","3,512","7,169",Estimate
+3,2017,0,Alamosa,102,97,199,Estimate
+5,2017,0,Arapahoe,"4,043","3,877","7,920",Estimate
+7,2017,0,Archuleta,71,68,139,Estimate
+9,2017,0,Baca,20,20,40,Estimate
+11,2017,0,Bent,23,22,45,Estimate
+13,2017,0,Boulder,"1,347","1,289","2,637",Estimate
+14,2017,0,Broomfield,353,338,691,Estimate
+15,2017,0,Chaffee,71,68,139,Estimate
+17,2017,0,Cheyenne,11,10,21,Estimate
+19,2017,0,Clear Creek,41,39,80,Estimate
+21,2017,0,Conejos,50,47,97,Estimate
+23,2017,0,Costilla,21,20,42,Estimate
+25,2017,0,Crowley,17,17,34,Estimate
+27,2017,0,Custer,21,20,41,Estimate
+29,2017,0,Delta,144,138,282,Estimate
+31,2017,0,Denver,"4,583","4,389","8,973",Estimate
+33,2017,0,Dolores,6,6,12,Estimate
+35,2017,0,Douglas,"1,823","1,743","3,566",Estimate
+37,2017,0,Eagle,303,289,592,Estimate
+39,2017,0,Elbert,122,117,239,Estimate
+41,2017,0,El Paso,"4,843","4,627","9,470",Estimate
+43,2017,0,Fremont,199,190,389,Estimate
+45,2017,0,Garfield,415,396,811,Estimate
+47,2017,0,Gilpin,22,21,42,Estimate
+49,2017,0,Grand,68,65,133,Estimate
+51,2017,0,Gunnison,72,69,141,Estimate
+53,2017,0,Hinsdale,2,2,4,Estimate
+55,2017,0,Huerfano,23,22,46,Estimate
+57,2017,0,Jackson,8,8,15,Estimate
+59,2017,0,Jefferson,"3,063","2,931","5,994",Estimate
+61,2017,0,Kiowa,9,9,17,Estimate
+63,2017,0,Kit Carson,44,42,86,Estimate
+65,2017,0,Lake,45,43,88,Estimate
+67,2017,0,La Plata,252,241,492,Estimate
+69,2017,0,Larimer,"1,750","1,675","3,425",Estimate
+71,2017,0,Las Animas,76,72,148,Estimate
+73,2017,0,Lincoln,27,26,53,Estimate
+75,2017,0,Logan,120,115,235,Estimate
+77,2017,0,Mesa,848,811,"1,659",Estimate
+79,2017,0,Mineral,4,3,7,Estimate
+81,2017,0,Moffat,91,87,177,Estimate
+83,2017,0,Montezuma,131,125,255,Estimate
+85,2017,0,Montrose,238,227,465,Estimate
+87,2017,0,Morgan,206,197,403,Estimate
+89,2017,0,Otero,113,108,220,Estimate
+91,2017,0,Ouray,17,16,32,Estimate
+93,2017,0,Park,63,60,122,Estimate
+95,2017,0,Phillips,27,26,54,Estimate
+97,2017,0,Pitkin,82,78,161,Estimate
+99,2017,0,Prowers,83,79,162,Estimate
+101,2017,0,Pueblo,919,879,"1,798",Estimate
+103,2017,0,Rio Blanco,34,32,66,Estimate
+105,2017,0,Rio Grande,61,58,119,Estimate
+107,2017,0,Routt,121,116,238,Estimate
+109,2017,0,Saguache,35,34,69,Estimate
+111,2017,0,San Juan,3,3,6,Estimate
+113,2017,0,San Miguel,36,34,70,Estimate
+115,2017,0,Sedgwick,10,10,19,Estimate
+117,2017,0,Summit,141,135,277,Estimate
+119,2017,0,Teller,95,91,185,Estimate
+121,2017,0,Washington,24,23,47,Estimate
+123,2017,0,Weld,"2,261","2,164","4,425",Estimate
+125,2017,0,Yuma,74,71,144,Estimate
